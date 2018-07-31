@@ -8,4 +8,4 @@ LinguaLibre was support by Wikimedia France (Paris) and the Wikipedia Foundation
 
 ### References
 * Shtooka, on Wikipedia :https://fr.wikipedia.org/wiki/Shtooka
-* Lingua-Libre#History, on LinguaLibre 2016 version : https://github.com/wikimedia-france/Lingua-Libre#history (
+* Lingua-Libre#History, on LinguaLibre 2016 version : https://github.com/wikimedia-france/Lingua-Libre#history
